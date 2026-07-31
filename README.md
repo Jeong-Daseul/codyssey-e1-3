@@ -7,7 +7,7 @@
 ## 실행 방법
 
 ```powershell
-cd D:\2026_Codyssey\과제\e1-3
+cd codyssey-e1-3
 python main.py
 ```
 
@@ -65,7 +65,7 @@ python main.py
 ## 파일 구조
 
 ```text
-e1-3/
+codyssey-e1-3/
 ├─ main.py    # MAC, JSON 분석, 사용자 입력, 성능 측정
 ├─ data.json  # 필터와 패턴 데이터
 └─ README.md  # 실행 방법과 결과 리포트
